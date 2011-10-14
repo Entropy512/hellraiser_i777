@@ -304,41 +304,6 @@
   </DefaultInputMethod>
 
 
-<ContactsData_Multi>
-  	<Information>
-  		<NbContacts>7</NbContacts>
-  		<Contacts>
-  			<Name>AT&amp;T Check Bill Balance</Name>
-  			<Number>*225#</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T Customer Care</Name>
-  			<Number>1-800-331-0500</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T Directory Assistance</Name>
-  			<Number>411</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T Pay My Bill</Name>
-  			<Number>*729</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T View Data Usage</Name>
-  			<Number>*3282#</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T View My Minutes</Name>
-  			<Number>*646#</Number>
-  		</Contacts>
-  		<Contacts>
-  			<Name>AT&amp;T VoiceDial</Name>
-  			<Number>*08</Number>
-  		</Contacts>
-  	</Information>
-  </ContactsData_Multi>
-
-
 </CustomerData>
 
 
