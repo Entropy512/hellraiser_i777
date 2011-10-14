@@ -96,23 +96,6 @@
         </MmsReceiving>
       </MMS>
     </Messages>
-    <Browser>
-      <NbBookmark>2</NbBookmark>
-      <Bookmark>
-        <NetworkName>ATT</NetworkName>
-        <Editable>no</Editable>
-        <Index>1</Index>
-        <BookmarkName>AT&amp;T Mobile Web</BookmarkName>
-        <URL>http://home.att.com</URL>
-      </Bookmark>
-      <Bookmark>
-        <NetworkName>ATT</NetworkName>
-        <Editable>no</Editable>
-        <Index>2</Index>
-        <BookmarkName>AT&amp;T Wi-Fi Hot Spots</BookmarkName>
-        <URL>http://attwifi.know-where.com/attwifiw/</URL>
-      </Bookmark>
-    </Browser>
     <Connections>
       <NbProfileHandle>1</NbProfileHandle>
       <ProfileHandle>
@@ -126,7 +109,7 @@
       <NbProfile>2</NbProfile>
       <Profile>
         <NetworkName>ATT</NetworkName>
-        <Editable>no</Editable>
+        <Editable>yes</Editable>
         <EnableStatus>enable</EnableStatus>
         <ProfileName>ATT PHONE</ProfileName>
         <Auth>none</Auth>
@@ -138,7 +121,7 @@
       </Profile>
       <Profile>
         <NetworkName>ATT</NetworkName>
-        <Editable>no</Editable>
+        <Editable>yes</Editable>
         <EnableStatus>enable</EnableStatus>
         <ProfileName>ATT WAP</ProfileName>
         <URL>http://mmsc.cingular.com</URL>
@@ -156,7 +139,7 @@
       </Profile>
       <Profile>
         <NetworkName>ATT</NetworkName>
-        <Editable>no</Editable>
+        <Editable>yes</Editable>
         <EnableStatus>enable</EnableStatus>
         <ProfileName>ATT Entitlement</ProfileName>
         <Auth>none</Auth>
