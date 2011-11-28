@@ -137,18 +137,6 @@
           <APN>wap.cingular</APN>
         </PSparam>
       </Profile>
-      <Profile>
-        <NetworkName>ATT</NetworkName>
-        <Editable>yes</Editable>
-        <EnableStatus>enable</EnableStatus>
-        <ProfileName>ATT Entitlement</ProfileName>
-        <Auth>none</Auth>
-        <Bearer>ps</Bearer>
-        <Protocol>http</Protocol>
-        <PSparam>
-          <APN>broadband</APN>
-        </PSparam>
-      </Profile>            
     </Connections>
     <ConnManager>
       <NbMetaNet>1</NbMetaNet>
