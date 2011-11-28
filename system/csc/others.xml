@@ -1,0 +1,344 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+
+
+<CustomerData>
+
+
+  <!-- Samsung Keypad ���� -->
+
+
+  <SamsungKeypad>
+
+
+    <!-- Portrait keypad Types ���� -->
+
+
+    <!-- �Ʒ� �� �ϳ��� ���� �����մϴ�. -->
+
+
+    <!-- QwertyKeypad, 3x4Keypad, HandwritingBox1, HandwritingBox2 -->
+
+
+    <inputmethod_type>QwertyKeypad</inputmethod_type>
+
+
+
+
+
+	<!-- XT9 ���� : on, off �� ���� -->
+
+
+	<xt9_enabled>on</xt9_enabled>
+
+
+
+
+
+	<!-- Word completion ���� : on, off �� ���� -->
+
+
+	<word_completion>off</word_completion>
+
+
+
+
+
+	<!-- Word completion point ���� : 2, 3, 4, 5 �� ���� -->
+
+
+	<word_completion_point>3</word_completion_point>
+
+
+
+
+
+	<!-- Spell correction ���� : on, off �� ���� -->
+
+
+	<spell_correction>on</spell_correction>
+
+
+    
+
+
+	<!-- Next word prediction ���� : on, off �� ���� -->
+
+
+	<next_word_prediction>off</next_word_prediction>
+
+
+
+
+
+	<!-- Auto-append ���� : on, off �� ���� -->
+
+
+	<auto_append>off</auto_append>
+
+
+
+
+
+	<!-- Auto-substitution ���� : on, off �� ���� -->
+
+
+	<auto_subtitution>off</auto_subtitution>
+
+
+
+
+
+	<!-- Regional correction ���� : on, off �� ���� -->
+
+
+	<regional_correction>off</regional_correction>
+
+
+
+
+
+	<!-- Recapture ���� : on, off �� ���� -->
+
+
+	<recapture>off</recapture>
+
+
+
+
+
+	<!-- Keypad sweeping ���� : on, off �� ���� -->
+
+
+	<keypad_sweeping>on</keypad_sweeping>
+
+
+
+
+
+	<!-- Auto-capitalization ���� : on, off �� ���� -->
+
+
+	<Auto_capitalization>on</Auto_capitalization>
+
+
+
+
+
+	<!-- Handwriting�� Recognition time ���� -->
+
+
+	<!-- 100, 300, 500, 1000, 2000 �� ���� -->
+
+
+	<recognition_time>500</recognition_time>
+
+
+
+
+
+	<!-- Auto-period ���� : on, off �� ���� -->
+
+
+	<Auto_period>off</Auto_period>
+
+
+
+
+
+    <!-- Voice input ���� : on, off �� ���� -->
+
+
+	<voice_input_enabled>on</voice_input_enabled>
+
+
+
+
+
+	<!-- ���⼭���� �Է� ��� ���� -->
+
+
+
+
+
+    <!-- English UK  -->
+
+
+	<lang_en_gb>off</lang_en_gb>
+
+
+
+
+
+    <!-- English US -->
+
+
+	<lang_en_us>off</lang_en_us>
+
+
+
+
+
+    <!-- German -->
+
+
+	<lang_de>off</lang_de>
+
+
+
+
+
+    <!-- Dutch -->
+
+
+	<lang_nl>off</lang_nl>
+
+
+
+
+
+    <!-- Polish -->
+
+
+	<lang_pl>off</lang_pl>
+
+
+
+
+
+    <!-- French -->
+
+
+	<lang_fr>off</lang_fr>
+
+
+
+
+
+    <!-- Italian -->
+
+
+	<lang_it>off</lang_it>
+
+
+
+
+
+    <!-- Portuguese -->
+
+
+	<lang_pt>off</lang_pt>
+
+
+
+
+
+    <!-- Spanish -->
+
+
+	<lang_es>off</lang_es>
+
+
+
+
+
+    <!-- Turkish -->
+
+
+	<lang_tr>off</lang_tr>
+
+
+
+
+
+    <!-- Korean -->
+
+
+	<lang_ko>off</lang_ko>
+
+
+  </SamsungKeypad>
+
+
+
+
+
+  <LatinIME>
+
+
+    <VibrateOn>on</VibrateOn>
+
+
+    <SoundOn>on</SoundOn>
+
+
+  </LatinIME>
+
+
+
+
+
+  <!-- �ʱ� ���ý� ����Ʈ �Է±� ���� -->
+
+
+  <DefaultInputMethod>
+
+
+    <!-- ����Ʈ �Է±�� �����ϰ� ���� �Է±��� package name �� ������ �� -->
+
+
+	<!-- ��) �ＺŰ�е� : com.sec.android.inputmethod.axt9 -->
+
+
+	<!-- ��) Swype : com.swype.android.inputmethod -->
+
+
+	<!-- ��) Android Keyboard : com.android.inputmethod.latin -->
+
+
+	<!-- �� ���� ������ ������� ����Ʈ�� �����ϰ��� �ϴ� �Է±⸦ �����Ͻø� �˴ϴ�. -->
+
+
+	<input_method>com.android.inputmethod.latin</input_method>
+
+
+  </DefaultInputMethod>
+
+
+<ContactsData_Multi>
+  	<Information>
+  		<NbContacts>7</NbContacts>
+  		<Contacts>
+  			<Name>AT&amp;T Check Bill Balance</Name>
+  			<Number>*225#</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T Customer Care</Name>
+  			<Number>1-800-331-0500</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T Directory Assistance</Name>
+  			<Number>411</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T Pay My Bill</Name>
+  			<Number>*729</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T View Data Usage</Name>
+  			<Number>*3282#</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T View My Minutes</Name>
+  			<Number>*646#</Number>
+  		</Contacts>
+  		<Contacts>
+  			<Name>AT&amp;T VoiceDial</Name>
+  			<Number>*08</Number>
+  		</Contacts>
+  	</Information>
+  </ContactsData_Multi>
+
+
+</CustomerData>
+
+
